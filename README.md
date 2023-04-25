@@ -3,7 +3,7 @@ Gope Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/gope-project/gope.svg?branch=master)](https://travis-ci.org/gope-project/gope)
 
-https://gope.org
+https://gope.biz.id
 
 What is Gope?
 ----------------
