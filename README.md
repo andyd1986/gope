@@ -15,7 +15,7 @@ out collectively by the network. Gope Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Gope Core software, see [https://gope.org](https://gope.org).
+the Gope Core software, see [https://gope.biz.id](https://gope.biz.id).
 
 License
 -------
