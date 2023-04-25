@@ -12,7 +12,7 @@
 typedef int64_t CAmount;
 
 static const CAmount COIN = 100000000;
-static const CAmount INITIAL_COIN_PREMINE = 10000000;
+static const CAmount INITIAL_COIN_PREMINE = 100000000;
 static const CAmount INITIAL_BLOCK_REWARD = 50;
 
 /** No amount larger than this (in satoshi) is valid.
